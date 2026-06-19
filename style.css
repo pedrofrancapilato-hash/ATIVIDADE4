@@ -9,7 +9,7 @@ body {
 }
 
 header {
-    background-color: #3cff0b;
+    background-color: #002776;
     color: rgb(0, 0, 0);
     width: 100%;
     padding: 20px;
@@ -68,7 +68,7 @@ header {
 }
 
 .estudante {
-    background-color: #ffffff; /* Corrigido: removido o erro 'background-image: background-color' */
+    background-color: #009C3B; /* Corrigido: removido o erro 'background-image: background-color' */
     padding: 24px 0;
 }
 
@@ -83,7 +83,7 @@ header {
 }
 
 .escola {
-    background-image: linear-gradient(#fffb0e,#ffe600);
+    background-image: linear-gradient(#FFFFFF),(#ffe600);
     color: rgb(0, 0, 0);
     padding: 24px 0;
     text-align: center;
@@ -101,7 +101,7 @@ header {
 }
 
 .link {
-    color: #ffffff;
+    color: #000000;
     text-decoration: none;
 }
 
