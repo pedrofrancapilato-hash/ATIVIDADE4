@@ -44,9 +44,11 @@ header {
     padding-right: 30px;
 }
 
-.banner1 {
-    display: flex;
-    justify-content: center;
+.banner1 img {
+    max-width: 800px;    /* ← MUDE ESTE VALOR para diminuir */
+    height: auto;
+    display: block;
+    margin: 0 auto;
 }
 
 .estudante_titulo {
@@ -85,8 +87,8 @@ header {
 .escola {
     background-image: linear-gradient(#FFFFFF),(#ffe600);
     color: rgb(0, 0, 0);
-    padding: 24px 0;
-    text-align: center;
+    padding: 24px 
+    text-align center;
     display: block; /* Simplificado: removido o flex duplicado para evitar conflitos */
 }
 
